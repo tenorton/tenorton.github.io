@@ -1,6 +1,6 @@
 * {
   color: #FFFFFF;
-  background-color: #222222;
+  background-color: #332211;
   text-align: center;
   font-size: 64px;
   font-family: "Arial", Sans-serif;
@@ -8,5 +8,5 @@
 li, a {
   font-size: 96px;
   text-decoration-line: underline;
-  color: #FF9900;
+  color: #FF8020;
 }
