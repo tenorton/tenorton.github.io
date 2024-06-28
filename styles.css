@@ -2,11 +2,11 @@
   color: #FFFFFF;
   background-color: #332211;
   text-align: center;
-  font-size: 64px;
+  font-size: 48px;
   font-family: "Arial", Sans-serif;
 }
 li, a {
-  font-size: 96px;
+  font-size: 64px;
   text-decoration-line: underline;
   color: #FF8020;
 }
