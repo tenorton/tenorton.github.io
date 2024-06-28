@@ -1,7 +1,7 @@
 h1, h2, h3, h4, h5, h6, p {
-  color: white;
-  background-color: black;
+  color: #FFFFFF;
+  background-color: #222222;
 }
 li, a {
-  color: orange;
+  color: #FFBB00;
 }
