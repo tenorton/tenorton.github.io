@@ -1,9 +1,10 @@
-* {
+body {
   color: #FFFFFF;
   background-color: #332211;
   text-align: center;
   font-size: 24px;
   font-family: "Arial", Sans-serif;
+  background-image: url("background.jpg");
 }
 li, a {
   text-decoration-line: underline;
