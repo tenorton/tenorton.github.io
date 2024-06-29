@@ -5,7 +5,9 @@ body {
   font-family: "Arial", Sans-serif;
   background-image: url("background.jpg");
 }
-li, a {
-  text-decoration-line: underline;
+div {
   color: #FFCC80;
+}
+a {
+  text-decoration-line: underline;
 }
