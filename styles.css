@@ -6,12 +6,13 @@ body {
   font-family: "Arial", Sans-serif;
   background-image: url("background.jpg");
 }
-div {
+div, a {
   color: #FFCC80;
 }
 span {
   background-color: #803d03;
   border-radius: 25px;
+  padding: 15px 15px 15px 15px;
   transition: background-color 0.7s;
 }
 span:hover {
