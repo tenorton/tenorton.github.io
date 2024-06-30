@@ -7,12 +7,14 @@ body {
   background-image: url("backdrop.jpg");
 }
 div {
-  background-color: #50000000;
+  background-color: #332211;
   padding: 15px 15px 15px 15px;
 }
-span {
+a {
   color: #FFAA30;
-  background-color: #BB9010;
+}
+span {
+  background-color: #b85f00;
   border-radius: 25px;
   padding: 15px 15px 15px 15px;
   transition: background-color 0.5s;
