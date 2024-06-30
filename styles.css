@@ -6,11 +6,12 @@ body {
   font-family: "Arial", Sans-serif;
   background-image: url("backdrop.jpg");
 }
-div, a {
-  color: #FFAA30;
+div {
+  background-color: #50000000;
 }
 span {
-  background-color: #FFFFFF;
+  color: #FFAA30;
+  background-color: #BB9010;
   border-radius: 25px;
   padding: 15px 15px 15px 15px;
   transition: background-color 0.5s;
