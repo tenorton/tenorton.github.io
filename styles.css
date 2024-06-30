@@ -7,14 +7,14 @@ body {
   background-image: url("background.jpg");
 }
 div, a {
-  color: #FFCC80;
+  color: #FFAA30;
 }
 span {
-  background-color: #803d03;
+  background-color: #FFFFFF;
   border-radius: 25px;
   padding: 15px 15px 15px 15px;
   transition: background-color 0.7s;
 }
 span:hover {
-  background-color: #c96208;
+  background-color: #0030cc;
 }
