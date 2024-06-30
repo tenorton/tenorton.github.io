@@ -4,7 +4,7 @@ body {
   font-size: 24px;
   font-weight: bold;
   font-family: "Arial", Sans-serif;
-  background-image: url("background.jpg");
+  background-image: url("backdrop.jpg");
 }
 div, a {
   color: #FFAA30;
