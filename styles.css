@@ -7,8 +7,6 @@ body {
   background-image: url("backdrop.jpg");
 }
 div {
-  background-color: #332211;
-  padding: 15px 15px 15px 15px;
 }
 a {
   color: #FFAA30;
