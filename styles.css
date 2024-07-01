@@ -8,7 +8,7 @@ body {
 }
 div {
   background-color: #000000;
-  opacity: 50%;
+  opacity: 0;
 }
 a {
   color: #FFAA30;
