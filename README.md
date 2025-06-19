@@ -1,2 +1,2 @@
-this is a random website i made to "kickstart" my existence online.
+My personal introductory website i guess
 http://tenorton.github.io
