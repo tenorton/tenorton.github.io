@@ -3,13 +3,14 @@ body {
   text-align: center;
   font-size: 24px;
   font-weight: bold;
-  font-family: "Alba", "Arial", Sans-serif;
+  font-family: "Arial", Sans-serif;
   background-image: url("backdrop.jpg");
   background-repeat: repeat;
+  background-size: 192px 128px;
 }
 a {
   background-color: #3d3d3d;
-  border-radius: 25px;
+  border-radius: 30px;
   padding: 15px 10px 0px 10px;
   transition: background-color 0.2s;
 }
