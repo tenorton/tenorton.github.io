@@ -8,7 +8,7 @@ body {
   background-repeat: repeat;
   background-size: 192px 128px;
 }
-div {
+span {
   background-color: #003090;
   border-radius: 5px;
   padding: 10px 10px 0px 10px;
