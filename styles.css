@@ -9,11 +9,11 @@ body {
   background-size: 192px 128px;
 }
 span {
-  background-color: #003090;
+  background-color: #009030;
   border-radius: 5px;
   padding: 10px 10px 0px 10px;
   transition: background-color 0.2s;
 }
 span:hover {
-  background-color: #a6a6a6;
+  background-color: #20cc70;
 }
