@@ -10,6 +10,7 @@ body {
 }
 a {
   color: #AAFFAA;
+  text-decoration: none;
 }
 span {
   background-color: #005000;
