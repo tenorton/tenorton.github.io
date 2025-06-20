@@ -8,8 +8,10 @@ body {
   background-repeat: repeat;
   background-size: 192px 128px;
 }
-span {
+a {
   color: #AAFFAA;
+}
+span {
   background-color: #005000;
   border-radius: 9px;
   padding: 0px 5px;
