@@ -11,7 +11,7 @@ body {
 span {
   background-color: #007020;
   border-radius: 5px;
-  padding: 10px 10px 0px 10px;
+  padding: 0px 0px 0px 0px;
   transition: background-color 0.2s;
 }
 span:hover {
